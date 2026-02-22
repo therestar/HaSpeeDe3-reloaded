@@ -35,19 +35,6 @@ Ogni tweet è accompagnato da metadati **testuali** (`anonymized_text`) e **cont
 
 ---
 
-## Struttura del repository
-
-```
-haspeede3-reloaded/
-├── encoder_only/
-│   └── encoder_only.ipynb       # Modello BERT-like: analisi, pre-processing, addestramento, valutazione
-├── decoder_only/
-│   └── decoder_only.ipynb       # Modello GPT-like: analisi, pre-processing, addestramento, valutazione
-└── README.md
-```
-
----
-
 ## Riferimenti
 
 - **Paper del task:** Lai et al. (2023). *HaSpeeDe3 at EVALITA 2023: Overview of the Political and Religious Hate Speech Detection task.* CEUR-WS. [📄 PDF](https://ceur-ws.org/Vol-3473/paper22.pdf)

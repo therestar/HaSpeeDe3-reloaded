@@ -49,3 +49,10 @@ Ogni tweet è accompagnato da metadati **testuali** (`anonymized_text`) e **cont
 **Teresa Staropoli** - Progetto d'esame universitario — corso di **NLP, Foundation Models e IA Generativa**
 
 Basato sul task HaSpeeDe3 © EVALITA 2023.
+
+---
+
+## Mascotte della repo
+
+![Paperino Gramsci](https://www.storiedipaperi.com/wp-content/uploads/2023/10/PioveBrutta.jpg)
+

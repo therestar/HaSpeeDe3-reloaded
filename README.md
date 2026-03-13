@@ -54,5 +54,5 @@ Basato sul task HaSpeeDe3 © EVALITA 2023.
 
 ## Mascotte della repo
 
-![Paperino Gramsci](https://www.storiedipaperi.com/wp-content/uploads/2023/10/PioveBrutta.jpg)
+<img src="https://www.storiedipaperi.com/wp-content/uploads/2023/10/PioveBrutta.jpg" alt="Paperino Gramsci" width="50%">
 
